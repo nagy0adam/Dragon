@@ -1,25 +1,28 @@
- Daniel Radcliffe
- Jacob Saunders
-  Michael Saunders
+kiadas datuma: 1997 Megjelenes helyszine: Magyarorszag 
+Szereplok:
+Daniel Radcliffe
+Jacob Saunders
+Michael Saunders
 Rendezo: Chris Columbus
+A film egy fiatal fiurol szol, aki egy varazslo.
+Egy Roxfort nevu var zsloiskolaban tanul es mindenfele kalandba keveredik barataival.
+trailer: https://www.youtube.com/watch?v=VyHV0BRtdxo
 "forgatasi helyszine: England"
-A film egy fiatal fiurol szol, aki egy varazslo.
-Egy Roxfort nevu var zsloiskolaban tanul es mindenfele kalandba keveredik barataival.
-Bevetel:5000000
-A film egy fiatal fiurol szol, aki egy varazslo.
-Egy Roxfort nevu var zsloiskolaban tanul es mindenfele kalandba keveredik barataival.
-Megjelenes helyszine: Magyarorszag
-
-Zeneszerzo: Jhon WilliamsProducer(ek): David Hayman
-
 Zeneszerzo: Jhon Williams
 Jelolesek:Hugo-dij
+Producer(ek): David Hayman
+Bevetel:5000000
+vago: nem tudom
 
-Zeneszerzo: Jhon Williams
 
+
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 kiadas datuma: 1997
 vago: nem tudom
 trailer: https://www.youtube.com/watch?v=VyHV0BRtdxo
 >>>>>>> 0c3fd332e60d8d1521e46294afb25419b54dfcff
+=======
+>>>>>>> 5c8c2a31fdb7f41e3c60a708515c070f970f1a89
