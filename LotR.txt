@@ -23,3 +23,4 @@ Zeneszerzo: Howard Shore
 forgatasi helyszine: new zealand
 Producer(ek): David Hayma
 Producer(ek): Pater Jackson
+kiadas datuma: 2001 
