@@ -18,4 +18,8 @@ rovid osszefoglalo: az admiralis generalis eli szep eletet amig megbizott alatva
 megjelenes datuma: 2012
 =======
 Zeneszerzo: Erran Baron Cohen
+<<<<<<< HEAD
 >>>>>>> aa267ca451ac1481ce2064a2731fc3200ea80a79
+=======
+Producer(ek): Anthony Hines, Dan Mazer
+>>>>>>> 602e338419d81fd4df86c9b84abca55ddeaa5662
