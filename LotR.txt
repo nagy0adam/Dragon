@@ -21,4 +21,12 @@ Tortenetben vegig egy gyuruvel baszakodnak de amugy kurva jo. Nezd meg!!!
 Zeneszerzo: Howard Shore
 >>>>>>> 4b408a24ca7e4b8453d8087ce6c5fe0505ce121d
 forgatasi helyszine: new zealand
+<<<<<<< HEAD
 
+=======
+Producer(ek): David Hayma
+Producer(ek): Pater Jackson
+kiadas datuma: 2001 
+vago: passz
+trailer: https://www.youtube.com/watch?v=V75dMMIW2B4
+>>>>>>> 0c3fd332e60d8d1521e46294afb25419b54dfcff

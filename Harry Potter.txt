@@ -9,12 +9,17 @@ Bevetel:5000000
 A film egy fiatal fiurol szol, aki egy varazslo.
 Egy Roxfort nevu var zsloiskolaban tanul es mindenfele kalandba keveredik barataival.
 Megjelenes helyszine: Magyarorszag
-<<<<<<< HEAD
+
 Zeneszerzo: Jhon WilliamsProducer(ek): David Hayman
-=======
-<<<<<<< HEAD
+
 Zeneszerzo: Jhon Williams
 Jelolesek:Hugo-dij
-=======
+
 Zeneszerzo: Jhon Williams
 
+<<<<<<< HEAD
+=======
+kiadas datuma: 1997
+vago: nem tudom
+trailer: https://www.youtube.com/watch?v=VyHV0BRtdxo
+>>>>>>> 0c3fd332e60d8d1521e46294afb25419b54dfcff
