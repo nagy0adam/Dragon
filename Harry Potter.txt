@@ -15,14 +15,3 @@ Bevetel:5000000
 vago: nem tudom
 
 
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-kiadas datuma: 1997
-vago: nem tudom
-trailer: https://www.youtube.com/watch?v=VyHV0BRtdxo
->>>>>>> 0c3fd332e60d8d1521e46294afb25419b54dfcff
-=======
->>>>>>> 5c8c2a31fdb7f41e3c60a708515c070f970f1a89
