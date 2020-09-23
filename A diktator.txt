@@ -14,4 +14,8 @@ Marokkó
 >>>>>>> 20f7be8b03206c5df8b53cb184642a46191d1d65
 Megjelenes helyszine: Magyarorszag
 rovid osszefoglalo: az admiralis generalis eli szep eletet amig megbizott alatvaloi at nem verik es megfosztjak minden tulajdonatol
+<<<<<<< HEAD
 megjelenes datuma: 2012
+=======
+Zeneszerzo: Erran Baron Cohen
+>>>>>>> aa267ca451ac1481ce2064a2731fc3200ea80a79
