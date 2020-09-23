@@ -1,9 +1,9 @@
 Rendezo:Larry Charles
-<<<<<<< HEAD
+
 Foszereplo:Sacha Baron CohenMegjelenes helyszine: Magyarorszag
 =======
 Foszereplo:Sacha Baron Cohen
-<<<<<<< HEAD
+
 Bevetel:10000000000Ft
 =======
 Forgatási helyszín
@@ -11,15 +11,15 @@ Kanári-szigetek
 New York
 Spanyolország
 Marokkó
->>>>>>> 20f7be8b03206c5df8b53cb184642a46191d1d65
+
 Megjelenes helyszine: Magyarorszag
 rovid osszefoglalo: az admiralis generalis eli szep eletet amig megbizott alatvaloi at nem verik es megfosztjak minden tulajdonatol
-<<<<<<< HEAD
+
 megjelenes datuma: 2012
-=======
+
 Zeneszerzo: Erran Baron Cohen
-<<<<<<< HEAD
->>>>>>> aa267ca451ac1481ce2064a2731fc3200ea80a79
-=======
+
 Producer(ek): Anthony Hines, Dan Mazer
->>>>>>> 602e338419d81fd4df86c9b84abca55ddeaa5662
+
+Jelolesek:Oscar-dijjak
+
