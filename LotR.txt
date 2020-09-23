@@ -7,7 +7,16 @@ Rendezo: Peter Jackson
 >>>>>>> ef41eb17f5326a94bfd8117e1fd483fbe4dac722
 Bevetel:sok 
 <<<<<<< HEAD
+Tortenetben vegig egy gyuruvel baszakodnak de amugy kurva jo. Nezd meg!!!
+Jelolesek:Oscar-dij
+=======
+<<<<<<< HEAD
 Megjelenes helyszine: Magyarorszag
 =======
 Tortenetben vegig egy gyuruvel baszakodnak de amugy kurva jo. Nezd meg!!!
 >>>>>>> eee15a3633cecefc3feefd5299dd6d8a0d64b4ec
+<<<<<<< HEAD
+>>>>>>> 4d2761f243be8d16772290cb29373a5020b38e46
+=======
+Zeneszerzo: Howard Shore
+>>>>>>> 4b408a24ca7e4b8453d8087ce6c5fe0505ce121d
