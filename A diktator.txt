@@ -1,3 +1,11 @@
 Rendezo:Larry Charles
 Foszereplo:Sacha Baron Cohen
+<<<<<<< HEAD
 Bevetel:10000000000Ft
+=======
+Forgatási helyszín
+Kanári-szigetek
+New York
+Spanyolország
+Marokkó
+>>>>>>> 20f7be8b03206c5df8b53cb184642a46191d1d65
