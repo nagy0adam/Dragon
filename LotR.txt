@@ -25,3 +25,4 @@ Producer(ek): David Hayma
 Producer(ek): Pater Jackson
 kiadas datuma: 2001 
 vago: passz
+trailer: https://www.youtube.com/watch?v=V75dMMIW2B4
