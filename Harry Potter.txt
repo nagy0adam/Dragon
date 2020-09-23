@@ -2,4 +2,9 @@
  Jacob Saunders
   Michael Saunders
 Rendezo: Chris Columbus
+<<<<<<< HEAD
 Bevetel:5000000
+=======
+A film egy fiatal fiurol szol, aki egy varazslo.
+Egy Roxfort nevu var zsloiskolaban tanul es mindenfele kalandba keveredik barataival.
+>>>>>>> ebc2e5573acbf05c3acc1370ba1e8e7e762f8e7f
