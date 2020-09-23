@@ -1,28 +1,12 @@
-<<<<<<< HEAD
-Szereplok:
-Ian McKellen
-Elijah Wood
-=======
-Rendezo: Peter Jackson
->>>>>>> ef41eb17f5326a94bfd8117e1fd483fbe4dac722
-Bevetel:sok 
-<<<<<<< HEAD
-Tortenetben vegig egy gyuruvel baszakodnak de amugy kurva jo. Nezd meg!!!
-Jelolesek:Oscar-dij
-=======
-<<<<<<< HEAD
+kiadas datuma: 2001
 Megjelenes helyszine: Magyarorszag
-=======
-Tortenetben vegig egy gyuruvel baszakodnak de amugy kurva jo. Nezd meg!!!
->>>>>>> eee15a3633cecefc3feefd5299dd6d8a0d64b4ec
-<<<<<<< HEAD
->>>>>>> 4d2761f243be8d16772290cb29373a5020b38e46
-=======
-Zeneszerzo: Howard Shore
->>>>>>> 4b408a24ca7e4b8453d8087ce6c5fe0505ce121d
-forgatasi helyszine: new zealand
-Producer(ek): David Hayma
-Producer(ek): Pater Jackson
-kiadas datuma: 2001 
+Szereplok: Ian McKellen, Elijah Wood
+Rendezo: Peter Jackson
 vago: passz
+tartalom: Tortenetben vegig egy gyuruvel baszakodnak de amugy kurva jo. Nezd meg!!!
 trailer: https://www.youtube.com/watch?v=V75dMMIW2B4
+forgatasi helyszine: new zealand
+Zeneszerzo: Howard Shore
+Jelolesek:Oscar-dij
+Producer(ek): David Hayma, Pater Jackson
+Bevetel:sok
