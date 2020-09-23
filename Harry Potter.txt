@@ -2,12 +2,16 @@
  Jacob Saunders
   Michael Saunders
 Rendezo: Chris Columbus
-<<<<<<< HEAD
-Bevetel:5000000
-=======
+"forgatasi helyszine: England"
 A film egy fiatal fiurol szol, aki egy varazslo.
 Egy Roxfort nevu var zsloiskolaban tanul es mindenfele kalandba keveredik barataival.
->>>>>>> ebc2e5573acbf05c3acc1370ba1e8e7e762f8e7f
+Bevetel:5000000
+A film egy fiatal fiurol szol, aki egy varazslo.
+Egy Roxfort nevu var zsloiskolaban tanul es mindenfele kalandba keveredik barataival.
 Megjelenes helyszine: Magyarorszag
+<<<<<<< HEAD
 Zeneszerzo: Jhon Williams
 Jelolesek:Hugo-dij
+=======
+Zeneszerzo: Jhon Williams
+>>>>>>> aa267ca451ac1481ce2064a2731fc3200ea80a79
