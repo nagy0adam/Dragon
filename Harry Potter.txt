@@ -15,3 +15,4 @@ Jelolesek:Hugo-dij
 =======
 Zeneszerzo: Jhon Williams
 >>>>>>> aa267ca451ac1481ce2064a2731fc3200ea80a79
+kiadas datuma: 1997
