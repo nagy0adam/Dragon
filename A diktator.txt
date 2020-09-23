@@ -1,8 +1,8 @@
-Rendezo:Larry Charles
-
-Foszereplo:Sacha Baron CohenMegjelenes helyszine: Magyarorszag
-
+Megjelenes helyszine: Magyarorszag
+megjelenes datuma: 2012
 Foszereplo:Sacha Baron Cohen
+Rendezo:Larry Charles
+rovid osszefoglalo: az admiralis generalis eli szep eletet amig megbizott alatvaloi at nem verik es megfosztjak minden tulajdonatol
 
 Bevetel:10000000000Ft
 
@@ -12,10 +12,10 @@ New York
 Spanyolország
 Marokkó
 
-Megjelenes helyszine: Magyarorszag
-rovid osszefoglalo: az admiralis generalis eli szep eletet amig megbizott alatvaloi at nem verik es megfosztjak minden tulajdonatol
 
-megjelenes datuma: 2012
+
+
+
 
 Zeneszerzo: Erran Baron Cohen
 
